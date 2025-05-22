@@ -1,3 +1,3 @@
 # Hello there!
 
-# bitss_demo
+Changes made on the GitHub webpage.
